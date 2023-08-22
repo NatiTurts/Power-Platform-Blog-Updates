@@ -59,7 +59,7 @@ Social Link 4 | String | Url link to social site/desitnation
 Note that the static images in the mail template, such as the Power Platform icons and the background, are coded into the flow. The images have been reconstructed into base64.
 ## Minimal Path to Awesome
 
-* [Download](solution/Power-Platform-Blog-Updates_1_0_0_0.zip) the `.zip` from the `solution` folder
+* [Download](solution) the `.zip` from the `solution` folder
 * [Import](https://flow.microsoft.com/en-us/blog/import-export-bap-packages/) the `.zip` file using **My Flows** > **Import** > **Upload** within Microsoft Flow.
 
 ## Disclaimer
