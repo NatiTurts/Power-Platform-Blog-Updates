@@ -1,0 +1,7 @@
+RSS Feed Links:
+Power Platform: https://cloudblogs.microsoft.com/powerplatform/feed/
+Power Apps: https://powerapps.microsoft.com/en-us/blog/feed/
+Power Automate: https://flow.microsoft.com/en-us/blog/feed/
+Power BI: https://powerbi.microsoft.com/en-us/blog/feed/
+Power Agents: https://powervirtualagents.microsoft.com/en-us/blog/feed
+Power Pages: https://powerpages.microsoft.com/en-us/blog/feed/
