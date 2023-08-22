@@ -18,7 +18,7 @@ Having multiple RSS flows per Power Platform product can get messy. More over, i
 ## Authors
 Solution|Author(s)
 --------|---------
-Power Platform Blog Update Flow | [Nati Turtledove](https://github.com/NatiTurts) ([@NatiTurts](https://www.twitter.com/NatiTurts) )
+Power Platform Blog Updates | [Nati Turtledove](https://github.com/NatiTurts) ([@NatiTurts](https://www.twitter.com/NatiTurts) )
 
 ## Version history
 Version|Date|Comments
@@ -59,7 +59,7 @@ Social Link 4 | String | Url link to social site/desitnation
 Note that the static images in the mail template, such as the Power Platform icons and the background, are coded into the flow. The images have been reconstructed into base64.
 ## Minimal Path to Awesome
 
-* [Download](solution/Power-Platform-Blog-Update.zip) the `.zip` from the `solution` folder
+* [Download](solution/Power-Platform-Blog-Updates.zip) the `.zip` from the `solution` folder
 * [Import](https://flow.microsoft.com/en-us/blog/import-export-bap-packages/) the `.zip` file using **My Flows** > **Import** > **Upload** within Microsoft Flow.
 
 ## Disclaimer
@@ -71,15 +71,15 @@ Note that the static images in the mail template, such as the Power Platform ico
 
 We do not support samples, but we this community is always willing to help, and we want to improve these samples. We use GitHub to track issues, which makes it easy for  community members to volunteer their time and help resolve issues.
 
-If you encounter any issues while using this sample, [create a new issue](https://github.com/pnp/powerautomate-samples/issues/new?assignees=&labels=Needs%3A+Triage+%3Amag%3A%2Ctype%3Abug-suspected&template=bug-report.yml&sample=Power-Platform-Blog-Update-Flow&authors=@NatiTurts&title=Power-Platform-Blog-Update-Flow%20-%20).
+If you encounter any issues while using this sample, [create a new issue](https://github.com/pnp/powerautomate-samples/issues/new?assignees=&labels=Needs%3A+Triage+%3Amag%3A%2Ctype%3Abug-suspected&template=bug-report.yml&sample=Power-Platform-Blog-Update-Flow&authors=@NatiTurts&title=Power-Platform-Blog-Updates%20-%20).
 
-For questions regarding this sample, [create a new question](https://github.com/pnp/powerautomate-samples/issues/new?assignees=&labels=Needs%3A+Triage+%3Amag%3A%2Ctype%3Abug-suspected&template=question.yml&sample=Power-Platform-Blog-Update-Flow&authors=@NatiTurts&title=Power-Platform-Blog-Update-Flow%20-%20).
+For questions regarding this sample, [create a new question](https://github.com/pnp/powerautomate-samples/issues/new?assignees=&labels=Needs%3A+Triage+%3Amag%3A%2Ctype%3Abug-suspected&template=question.yml&sample=Power-Platform-Blog-Update-Flow&authors=@NatiTurts&title=Power-Platform-Blog-Updates%20-%20).
 
-Finally, if you have an idea for improvement, [make a suggestion](https://github.com/pnp/powerautomate-samples/issues/new?assignees=&labels=Needs%3A+Triage+%3Amag%3A%2Ctype%3Abug-suspected&template=suggestion.yml&sample=Power-Platform-Blog-Update-Flow&authors=@NatiTurts&title=Power-Platform-Blog-Update-Flow%20-%20).
+Finally, if you have an idea for improvement, [make a suggestion](https://github.com/pnp/powerautomate-samples/issues/new?assignees=&labels=Needs%3A+Triage+%3Amag%3A%2Ctype%3Abug-suspected&template=suggestion.yml&sample=Power-Platform-Blog-Update-Flow&authors=@NatiTurts&title=Power-Platform-Blog-Updates%20-%20).
 
 ## For more information
 
 - [Create your first flow](https://docs.microsoft.com/en-us/power-automate/getting-started#create-your-first-flow)
 - [Microsoft Power Automate documentation](https://docs.microsoft.com/en-us/power-automate/)
 
-<img src="https://telemetry.sharepointpnp.com/powerautomate-samples/samples/Power-Platform-Blog-Update-Flow" />
+<img src="https://telemetry.sharepointpnp.com/powerautomate-samples/samples/Power-Platform-Blog-Updates" />
