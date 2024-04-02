@@ -4,12 +4,12 @@
     "name": "pnp-powerautomate-samples-Power-Platform-Blog-Update-Flow",
     "version": "1.0.0.1",
     "source": "pnp",
-    "creationDateTime": "2023-03-24T00:00:00.000Z",
-    "updateDateTime": "2023-03-24T00:00:00.000Z",
-    "title": "Power Platform Blog Update Flow",
-    "shortDescription": "Two flows that users can configure to run daily and weekly keeping them up to date with the latest Power Platform blog posts.",
+    "creationDateTime": "2024-04-02T00:00:00.000Z",
+    "updateDateTime": "2024-43-02T00:00:00.000Z",
+    "title": "Power Platform Blog Updates",
+    "shortDescription": "A Power Platform solution that will consolidate all Power Platform blogs weekly and send you a summarized email every Monday",
     "longDescription": [
-      "Having multiple RSS flows per Power Platform product can get messy. More over, it's not always user friendly accessing these updates through the Power Automate notifications. These two flows, a weekly and daily flow, retrieve all Power Platform product blog updates and summarize them into product categories through a neat HTML template. Then once a week/day, users can receive a summary of all blog updates via email with links to each individual blog post."
+      "Having multiple RSS flows per Power Platform product can get messy. More over, it's not always user friendly accessing these updates through the Power Automate notifications. This solution will retrieve all Power Platform product blog updates and summarize them into product categories through a neat HTML template. Then once a week, users can receive a summary of all blog updates via email with links to each individual blog post."
     ],
     "url": "https://github.com/pnp/powerautomate-samples/tree/main/samples/Power-Platform-Blog-Update-Flow",
       "products": [
@@ -17,7 +17,7 @@
         "Power Platform"
     ],
     "tags": [
-      "RSS", "FLOW", "BLOG", "EMAILs"
+      "RSS", "FLOW", "BLOG", "EMAILS"
     ],
     "categories": [
       "POWERAUTOMATE"
