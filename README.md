@@ -23,7 +23,7 @@ Power Platform Blog Updates | [Nati Turtledove](https://github.com/NatiTurts) ([
 ## Version history
 Version|Date|Comments
 -------|----|--------
-1.0.0.0 | August 22, 2023 | Initial release
+1.0.0.0 | April 02, 2024 | Initial release
 
 ## Features
 * Scheduled Flow: For weekly blog email updates.
